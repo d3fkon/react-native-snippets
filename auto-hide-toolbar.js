@@ -38,7 +38,6 @@ export default class Animations extends Component {
     }
   }
   key = 0;
-  keyx = 0;
   offset = 0;
   gesture = 'up';
   showHideNavbar = (v) => {
